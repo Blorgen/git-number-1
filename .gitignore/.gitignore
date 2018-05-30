@@ -1,0 +1,2 @@
+git remote add origin https://github.com/Blorgen/git-number-1.git
+git push -u origin master
